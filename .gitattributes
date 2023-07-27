@@ -1,7 +1,6 @@
 *.obj filter=lfs diff=lfs merge=lfs -text
 *.ply filter=lfs diff=lfs merge=lfs -text
 data/*.obj filter=lfs diff=lfs merge=lfs -text
-data/skin_mesh.obj filter=lfs diff=lfs merge=lfs -text
 data/voxel_grid.ply filter=lfs diff=lfs merge=lfs -text
 data/pcd.ply filter=lfs diff=lfs merge=lfs -text
 data/skeleton_standard.obj filter=lfs diff=lfs merge=lfs -text
