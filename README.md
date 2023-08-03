@@ -5,3 +5,5 @@
 - python>=3.9
 - libigl
 - Tetwild
+- openvdb
+- nanovdb
